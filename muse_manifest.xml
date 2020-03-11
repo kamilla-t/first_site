@@ -1,0 +1,459 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thewebsitecreatiion-kazan.ru" resolutions="1x" timestamp="1581514592780">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_______-a.css" crc="3960938274" ref="вакансии:создание-сайтов:копирайтинг:портфолио:контакты:отзывы:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно:index:услуги:о-компании:продвижение-сайтов"/>
+    <file name="________.css" crc="356066646" ref="вакансии"/>
+    <file name="iefonts_________.css" crc="489763193" ref="вакансии"/>
+    <file name="________-______.css" crc="3990591369" ref="создание-сайтов"/>
+    <file name="iefonts_________-______.css" crc="489763193" ref="создание-сайтов"/>
+    <file name="___________.css" crc="3926888672" ref="копирайтинг"/>
+    <file name="iefonts____________.css" crc="489763193" ref="копирайтинг"/>
+    <file name="_________.css" crc="3862834184" ref="портфолио"/>
+    <file name="iefonts__________.css" crc="489763193" ref="портфолио"/>
+    <file name="________1.css" crc="320285992" ref="контакты"/>
+    <file name="iefonts_________1.css" crc="524685697" ref="контакты"/>
+    <file name="______2.css" crc="4196421675" ref="отзывы"/>
+    <file name="iefonts_______2.css" crc="489763193" ref="отзывы"/>
+    <file name="______1.css" crc="161151561" ref="статьи"/>
+    <file name="iefonts_______1.css" crc="489763193" ref="статьи"/>
+    <file name="_______.css" crc="4089708474" ref="новости"/>
+    <file name="iefonts________.css" crc="489763193" ref="новости"/>
+    <file name="__________-_-___-______.css" crc="3907376627" ref="расскажите-о-нас-больше"/>
+    <file name="iefonts___________-_-___-______.css" crc="489763193" ref="расскажите-о-нас-больше"/>
+    <file name="500-___________---_________.css" crc="4075444726" ref="500-посетителей---бесплатно"/>
+    <file name="iefonts_500-___________---_________.css" crc="489763193" ref="500-посетителей---бесплатно"/>
+    <file name="50-_____---_________.css" crc="3959090954" ref="50-лидов---бесплатно"/>
+    <file name="iefonts_50-_____---_________.css" crc="489763193" ref="50-лидов---бесплатно"/>
+    <file name="index.css" crc="4041511940" ref="index"/>
+    <file name="iefonts_index.css" crc="56736631" ref="index"/>
+    <file name="______.css" crc="4034033726" ref="услуги"/>
+    <file name="iefonts_______.css" crc="489763193" ref="услуги"/>
+    <file name="_-________.css" crc="3872489124" ref="о-компании"/>
+    <file name="iefonts__-________.css" crc="283829701" ref="о-компании"/>
+    <file name="___________-______.css" crc="3896405809" ref="продвижение-сайтов"/>
+    <file name="iefonts____________-______.css" crc="489763193" ref="продвижение-сайтов"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index:контакты:о-компании"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index"/>
+    <file name="form-u2023.php" crc="4036261940" ref="phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно"/>
+    <file name="form-u1007.php" crc="4162710394" ref="index"/>
+    <file name="form-u1225.php" crc="328473957" ref="контакты"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="портфолио"/>
+  </folder>
+  <folder name="images">
+    <file name="logo_big.png" crc="321430514" seo="true" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно">
+      <caption webpage="500-посетителей---бесплатно" alt=""/>
+      <caption webpage="500-посетителей---бесплатно" alt=""/>
+      <caption webpage="500-посетителей---бесплатно" alt=""/>
+      <caption webpage="500-посетителей---бесплатно" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="создание-сайтов" alt=""/>
+      <caption webpage="создание-сайтов" alt=""/>
+      <caption webpage="создание-сайтов" alt=""/>
+      <caption webpage="создание-сайтов" alt=""/>
+      <caption webpage="портфолио" alt=""/>
+      <caption webpage="портфолио" alt=""/>
+      <caption webpage="портфолио" alt=""/>
+      <caption webpage="портфолио" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="статьи" alt=""/>
+      <caption webpage="статьи" alt=""/>
+      <caption webpage="статьи" alt=""/>
+      <caption webpage="статьи" alt=""/>
+      <caption webpage="копирайтинг" alt=""/>
+      <caption webpage="копирайтинг" alt=""/>
+      <caption webpage="копирайтинг" alt=""/>
+      <caption webpage="копирайтинг" alt=""/>
+      <caption webpage="продвижение-сайтов" alt=""/>
+      <caption webpage="продвижение-сайтов" alt=""/>
+      <caption webpage="продвижение-сайтов" alt=""/>
+      <caption webpage="продвижение-сайтов" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="50-лидов---бесплатно" alt=""/>
+      <caption webpage="50-лидов---бесплатно" alt=""/>
+      <caption webpage="50-лидов---бесплатно" alt=""/>
+      <caption webpage="50-лидов---бесплатно" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="расскажите-о-нас-больше" alt=""/>
+      <caption webpage="расскажите-о-нас-больше" alt=""/>
+      <caption webpage="расскажите-о-нас-больше" alt=""/>
+      <caption webpage="расскажите-о-нас-больше" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+    </file>
+    <file name="main-submenu-3.jpg" crc="3846016401" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="main-submenu-1.jpg" crc="370338544" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="main-submenu-2.jpg" crc="444696589" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="123.jpg" crc="419646574" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vektor.jpg" crc="4025064895" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about_small_1.png" crc="436699934" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about_small_2.png" crc="238584092" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about_small_3.png" crc="4223197738" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dizayn-ofisa-v-sovremennom-stile-foto-14.jpg" crc="4057536682" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xxl-u2385-fr.jpg" crc="3767201226" ref="phone>index"/>
+    <file name="modnye-solntsezashchitnye-ochki-u2397-fr.jpg" crc="4124109006" ref="phone>index"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk1.png" crc="497923617" seo="true" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно">
+      <caption webpage="500-посетителей---бесплатно" alt=""/>
+      <caption webpage="500-посетителей---бесплатно" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="создание-сайтов" alt=""/>
+      <caption webpage="создание-сайтов" alt=""/>
+      <caption webpage="портфолио" alt=""/>
+      <caption webpage="портфолио" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="статьи" alt=""/>
+      <caption webpage="статьи" alt=""/>
+      <caption webpage="копирайтинг" alt=""/>
+      <caption webpage="копирайтинг" alt=""/>
+      <caption webpage="продвижение-сайтов" alt=""/>
+      <caption webpage="продвижение-сайтов" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="50-лидов---бесплатно" alt=""/>
+      <caption webpage="50-лидов---бесплатно" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="расскажите-о-нас-больше" alt=""/>
+      <caption webpage="расскажите-о-нас-больше" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+    </file>
+    <file name="fb1.png" crc="4249418220" seo="true" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно">
+      <caption webpage="500-посетителей---бесплатно" alt=""/>
+      <caption webpage="500-посетителей---бесплатно" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="создание-сайтов" alt=""/>
+      <caption webpage="создание-сайтов" alt=""/>
+      <caption webpage="портфолио" alt=""/>
+      <caption webpage="портфолио" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="статьи" alt=""/>
+      <caption webpage="статьи" alt=""/>
+      <caption webpage="копирайтинг" alt=""/>
+      <caption webpage="копирайтинг" alt=""/>
+      <caption webpage="продвижение-сайтов" alt=""/>
+      <caption webpage="продвижение-сайтов" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="50-лидов---бесплатно" alt=""/>
+      <caption webpage="50-лидов---бесплатно" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="расскажите-о-нас-больше" alt=""/>
+      <caption webpage="расскажите-о-нас-больше" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+    </file>
+    <file name="whatsapp.png" crc="109711155" seo="true" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно">
+      <caption webpage="500-посетителей---бесплатно" alt=""/>
+      <caption webpage="500-посетителей---бесплатно" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="создание-сайтов" alt=""/>
+      <caption webpage="создание-сайтов" alt=""/>
+      <caption webpage="портфолио" alt=""/>
+      <caption webpage="портфолио" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="статьи" alt=""/>
+      <caption webpage="статьи" alt=""/>
+      <caption webpage="копирайтинг" alt=""/>
+      <caption webpage="копирайтинг" alt=""/>
+      <caption webpage="продвижение-сайтов" alt=""/>
+      <caption webpage="продвижение-сайтов" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="50-лидов---бесплатно" alt=""/>
+      <caption webpage="50-лидов---бесплатно" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="расскажите-о-нас-больше" alt=""/>
+      <caption webpage="расскажите-о-нас-больше" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+    </file>
+    <file name="telegram.png" crc="4234170102" seo="true" ref="phone>index:phone>новости:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов:phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>отзывы:phone>контакты:index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно">
+      <caption webpage="500-посетителей---бесплатно" alt=""/>
+      <caption webpage="500-посетителей---бесплатно" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="создание-сайтов" alt=""/>
+      <caption webpage="создание-сайтов" alt=""/>
+      <caption webpage="портфолио" alt=""/>
+      <caption webpage="портфолио" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="статьи" alt=""/>
+      <caption webpage="статьи" alt=""/>
+      <caption webpage="копирайтинг" alt=""/>
+      <caption webpage="копирайтинг" alt=""/>
+      <caption webpage="продвижение-сайтов" alt=""/>
+      <caption webpage="продвижение-сайтов" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="50-лидов---бесплатно" alt=""/>
+      <caption webpage="50-лидов---бесплатно" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="расскажите-о-нас-больше" alt=""/>
+      <caption webpage="расскажите-о-нас-больше" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="biznes_dlya_zhenschin.jpg" crc="3977001983" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images-u678-a-fr.jpg" crc="370346931" ref="index"/>
+    <file name="2bd40255523d2b84f4034b544c8c0c62.jpg" crc="4221931828" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="267682.jpg" crc="116741864" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xxl.jpg" crc="355085780" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="modnye-solntsezashchitnye-ochki.jpg" crc="4188063542" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="map-ico.png" crc="442607105" seo="true" ref="index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно">
+      <caption webpage="500-посетителей---бесплатно" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="создание-сайтов" alt=""/>
+      <caption webpage="портфолио" alt=""/>
+      <caption webpage="расскажите-о-нас-больше" alt=""/>
+      <caption webpage="50-лидов---бесплатно" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="статьи" alt=""/>
+      <caption webpage="копирайтинг" alt=""/>
+      <caption webpage="продвижение-сайтов" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+    </file>
+    <file name="pointer-ico.png" crc="4176922581" seo="true" ref="index:услуги:продвижение-сайтов:создание-сайтов:копирайтинг:контакты:отзывы:о-компании:вакансии:портфолио:статьи:новости:расскажите-о-нас-больше:500-посетителей---бесплатно:50-лидов---бесплатно">
+      <caption webpage="500-посетителей---бесплатно" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="создание-сайтов" alt=""/>
+      <caption webpage="портфолио" alt=""/>
+      <caption webpage="расскажите-о-нас-больше" alt=""/>
+      <caption webpage="50-лидов---бесплатно" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="статьи" alt=""/>
+      <caption webpage="копирайтинг" alt=""/>
+      <caption webpage="продвижение-сайтов" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+    </file>
+    <file name="0f1872ae8eef2e9e06c32d0e30277ac2.jpg" crc="446573261" ref="контакты:о-компании">
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+    </file>
+    <file name="1.png" crc="3780713379" seo="true" ref="контакты">
+      <caption webpage="контакты" alt=""/>
+    </file>
+    <file name="2.png" crc="157980224" seo="true" ref="контакты">
+      <caption webpage="контакты" alt=""/>
+    </file>
+    <file name="3.png" crc="3881938807" seo="true" ref="контакты">
+      <caption webpage="контакты" alt=""/>
+    </file>
+    <file name="checkboxunchecked-u1296-cu-fr.jpg" crc="3882536055" ref="контакты"/>
+    <file name="checkboxuncheckedrollover-u1296-cu-r-fr.jpg" crc="70851501" ref="контакты"/>
+    <file name="checkboxuncheckedmousedown-u1296-cu-m-fr.jpg" crc="226923036" ref="контакты"/>
+    <file name="checkboxchecked-u1296-cc-fr.jpg" crc="4177411940" ref="контакты"/>
+    <file name="checkboxcheckedrollover-u1296-cc-r-fr.jpg" crc="400728770" ref="контакты"/>
+    <file name="checkboxcheckedmousedown-u1296-cc-m-fr.jpg" crc="4001926943" ref="контакты"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_______-a.css" crc="106256063" ref="phone>создание-сайтов:phone>копирайтинг:phone>о-компании:phone>портфолио:phone>вакансии:phone>статьи:phone>index:phone>отзывы:phone>новости:phone>контакты:phone>расскажите-о-нас-больше:phone>500-посетителей---бесплатно:phone>50-лидов---бесплатно:phone>услуги:phone>продвижение-сайтов"/>
+      <file name="________-______.css" crc="3812667236" ref="phone>создание-сайтов"/>
+      <file name="iefonts_________-______.css" crc="371180419" ref="phone>создание-сайтов"/>
+      <file name="___________.css" crc="314377247" ref="phone>копирайтинг"/>
+      <file name="iefonts____________.css" crc="371180419" ref="phone>копирайтинг"/>
+      <file name="_-________.css" crc="452478038" ref="phone>о-компании"/>
+      <file name="iefonts__-________.css" crc="371180419" ref="phone>о-компании"/>
+      <file name="_________.css" crc="466326115" ref="phone>портфолио"/>
+      <file name="iefonts__________.css" crc="371180419" ref="phone>портфолио"/>
+      <file name="________.css" crc="3894976895" ref="phone>вакансии"/>
+      <file name="iefonts_________.css" crc="371180419" ref="phone>вакансии"/>
+      <file name="______1.css" crc="113903579" ref="phone>статьи"/>
+      <file name="iefonts_______1.css" crc="371180419" ref="phone>статьи"/>
+      <file name="index.css" crc="182559356" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="123032730" ref="phone>index"/>
+      <file name="______2.css" crc="535125641" ref="phone>отзывы"/>
+      <file name="iefonts_______2.css" crc="371180419" ref="phone>отзывы"/>
+      <file name="_______.css" crc="419401680" ref="phone>новости"/>
+      <file name="iefonts________.css" crc="371180419" ref="phone>новости"/>
+      <file name="________1.css" crc="40147177" ref="phone>контакты"/>
+      <file name="iefonts_________1.css" crc="371180419" ref="phone>контакты"/>
+      <file name="__________-_-___-______.css" crc="147511148" ref="phone>расскажите-о-нас-больше"/>
+      <file name="iefonts___________-_-___-______.css" crc="371180419" ref="phone>расскажите-о-нас-больше"/>
+      <file name="500-___________---_________.css" crc="3909713575" ref="phone>500-посетителей---бесплатно"/>
+      <file name="iefonts_500-___________---_________.css" crc="371180419" ref="phone>500-посетителей---бесплатно"/>
+      <file name="50-_____---_________.css" crc="4198909844" ref="phone>50-лидов---бесплатно"/>
+      <file name="iefonts_50-_____---_________.css" crc="371180419" ref="phone>50-лидов---бесплатно"/>
+      <file name="______.css" crc="3813341838" ref="phone>услуги"/>
+      <file name="iefonts_______.css" crc="371180419" ref="phone>услуги"/>
+      <file name="___________-______.css" crc="317533424" ref="phone>продвижение-сайтов"/>
+      <file name="iefonts____________-______.css" crc="371180419" ref="phone>продвижение-сайтов"/>
+    </folder>
+    <file name="index.html" crc="3819248207" seo="true" mt="1581514561224" redirect="true"/>
+    <file name="новости.html" crc="505297627" seo="true" mt="1581514452770" redirect="true"/>
+    <file name="расскажите-о-нас-больше.html" crc="4130989566" seo="true" mt="1581514452770" redirect="true"/>
+    <file name="500-посетителей---бесплатно.html" crc="145619168" seo="true" mt="1581514452770" redirect="true"/>
+    <file name="50-лидов---бесплатно.html" crc="476974985" seo="true" mt="1581514452770" redirect="true"/>
+    <file name="услуги.html" crc="117308422" seo="true" mt="1581514452770" redirect="true"/>
+    <file name="продвижение-сайтов.html" crc="5346383" seo="true" mt="1581514452770" redirect="true"/>
+    <file name="создание-сайтов.html" crc="4168776411" seo="true" mt="1581514452770" redirect="true"/>
+    <file name="копирайтинг.html" crc="4165449228" seo="true" mt="1581514452770" redirect="true"/>
+    <file name="о-компании.html" crc="301574309" seo="true" mt="1581514452770" redirect="true"/>
+    <file name="портфолио.html" crc="4024755183" seo="true" mt="1581514452770" redirect="true"/>
+    <file name="вакансии.html" crc="196283759" seo="true" mt="1581514452770" redirect="true"/>
+    <file name="статьи.html" crc="4076893253" seo="true" mt="1581514452770" redirect="true"/>
+    <file name="отзывы.html" crc="305767997" seo="true" mt="1581514452770" redirect="true"/>
+    <file name="контакты.html" crc="170708528" seo="true" mt="1581514452770" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="48562485" seo="true" mt="1581514561495" redirect="true"/>
+  <file name="услуги.html" crc="462973953" seo="true" mt="1581514452849" redirect="true"/>
+  <file name="продвижение-сайтов.html" crc="456997292" seo="true" mt="1581514452849" redirect="true"/>
+  <file name="создание-сайтов.html" crc="4045992085" seo="true" mt="1581514452849" redirect="true"/>
+  <file name="копирайтинг.html" crc="93865578" seo="true" mt="1581514452849" redirect="true"/>
+  <file name="контакты.html" crc="120082156" seo="true" mt="1581514560915" redirect="true"/>
+  <file name="отзывы.html" crc="476765998" seo="true" mt="1581514452849" redirect="true"/>
+  <file name="о-компании.html" crc="3798205087" seo="true" mt="1581514560916" redirect="true"/>
+  <file name="вакансии.html" crc="475569820" seo="true" mt="1581514452849" redirect="true"/>
+  <file name="портфолио.html" crc="165880745" seo="true" mt="1581514452849" redirect="true"/>
+  <file name="статьи.html" crc="32462055" seo="true" mt="1581514452849" redirect="true"/>
+  <file name="новости.html" crc="3762733978" seo="true" mt="1581514452849" redirect="true"/>
+  <file name="расскажите-о-нас-больше.html" crc="4198847732" seo="true" mt="1581514452849" redirect="true"/>
+  <file name="500-посетителей---бесплатно.html" crc="3846457219" seo="true" mt="1581514452849" redirect="true"/>
+  <file name="50-лидов---бесплатно.html" crc="64919895" seo="true" mt="1581514452849" redirect="true"/>
+</manifest>
